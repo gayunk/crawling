@@ -16,7 +16,7 @@ folderName = now.replace(":", "_")
 os.mkdir(folderName)
 
 
-key_word = ["2024년"]
+key_word = ["대한민국 저출산"]
 
 wb = openpyxl.Workbook()  #워크북
 
